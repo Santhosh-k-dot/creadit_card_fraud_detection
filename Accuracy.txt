@@ -1,0 +1,6 @@
+Credit Card Fraud Detection Using State-of-the-Art Machine Learning and Deep Learning Algorithms.
+
+Algorithm / Model Used: Gradient Boosting Classifier.
+
+Train Accuracy: 1.00
+Test Accuracy: 0.91.

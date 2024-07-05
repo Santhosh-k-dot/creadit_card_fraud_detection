@@ -1,0 +1,8 @@
+credit_usage,credit_history,purpose,current_balance,Average_Credit_Balance,personal_status,other_parties,property_magnitude,cc_age,other_payment_plans,housing,job,num_dependents,foreign_worker,class
+24,delayed previously,new car,4870,<100,male single,none,no known property,53,none,for free,skilled,2,yes,bad
+36,existing paid,education,9055,no known savings,male single,none,no known property,35,none,for free,unskilled resident,2,yes,good
+24,existing paid,furniture/equipment,2835,500<=X<1000,male single,none,life insurance,53,none,own,skilled,1,yes,good
+12,existing paid,new car,1295,<100,female div/dep/mar,none,car,25,none,rent,skilled,1,yes,bad
+10,critical/other existing credit,new car,2241,<100,male single,none,real estate,48,none,rent,unskilled resident,2,no,good
+12,existing paid,education,719,<100,male single,none,car,41,bank,own,unskilled resident,2,yes,bad
+48,critical/other existing credit,furniture/equipment,5096,<100,female div/dep/mar,none,car,30,none,own,high qualif/self emp/mgmt,1,yes,bad
